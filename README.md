@@ -14,3 +14,7 @@ npm start
 ```
 
 Open [http://localhost:3333](http://localhost:3333)
+
+# backend_nodeJs
+
+Backend part for fighters project
